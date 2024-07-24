@@ -1,5 +1,10 @@
 # 3D Rotating Donut ASCII Renderer in Go
 
+## Preview
+
+
+![Rotating Donut](donut.gif)
+
 ## Overview
 
 This Go program renders a rotating 3D donut (torus) using ASCII characters in the terminal.
@@ -27,6 +32,8 @@ This Go program renders a rotating 3D donut (torus) using ASCII characters in th
     ```sh
     go run donut.go
     ```
+
+
 
 ## Key Concepts
 
